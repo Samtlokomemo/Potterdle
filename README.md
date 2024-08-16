@@ -1,5 +1,13 @@
 # Potterdle
-Projeto Engenharia de Software
+
+## Integrantes:
+- Samuel Rocha
+- Ingrid Vitoria
+- Gustavo Lins
+- Hugo Ryan
+- Ramon Freire
+
+## 5WH
 1. **What:** Um jogo de adivinhar o personagem de harry potter
 2. **Why:** Porque gostamos do universo de Harry Potter.
 3. **Who:** Qualquer um que conheça e goste da saga Harry Potter.

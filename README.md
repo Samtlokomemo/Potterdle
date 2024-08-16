@@ -3,7 +3,7 @@
 ## Integrantes:
 - [Samuel Rocha](https://github.com/Samtlokomemo/)
 - [Ingrid Vitoria](https://github.com/Dorginha)
-- [Gustavo Lins]()
+- [Gustavo Lins](https://github.com/BABABEA-0)
 - [Hugo Ryan](https://github.com/hugo-ryan37)
 - [Ramon Freire](https://github.com/SuperFrioPolar)
 

@@ -1,11 +1,11 @@
 # Potterdle
 
 ## Integrantes:
-- Samuel Rocha
-- Ingrid Vitoria
-- Gustavo Lins
-- Hugo Ryan
-- Ramon Freire
+- [Samuel Rocha](https://github.com/Samtlokomemo/)
+- [Ingrid Vitoria](https://github.com/Dorginha)
+- [Gustavo Lins]()
+- [Hugo Ryan](https://github.com/hugo-ryan37)
+- [Ramon Freire](https://github.com/SuperFrioPolar)
 
 ## 5WH
 1. **What:** Um jogo de adivinhar o personagem de harry potter, baseado no jogo [loldle](loldle.net). Um personagem aleatório é escolhido, então você digita o nome de um personagem e ele apresenta suas características, como: Nome, Gênero, Cor do Cabelo, Casa de Hogwarts, Se é bruxo, Se é ou não de Hogwarts e etc. Em seguida ele vai mostrar quais características batem com o personagem do dia e quais não batem, até conseguir adivinhar. 

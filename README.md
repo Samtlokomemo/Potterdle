@@ -14,7 +14,7 @@ Potterdle é um jogo de adivinhação diária sobre o universo de Harry Potter, 
 Criar um jogo de adivinhação de personagens do universo Harry Potter, inspirado no conceito do jogo [loldle](https://loldle.net/). O jogo seleciona um personagem aleatório para ser o personagem de tal dia e o objetivo do usuário é acertar qual personagem é esse. Ao inserir o nome de um personagem o jogo irá classicar como verdadeiro ou falso baseado em suas características como Nome, Gênero, Casa de Hogwarts, se é um bruxo ou não, Patrono, Ancestralidade, etc... A partir disso o jogo mostra quais características coincidem ou não com o personagem do dia, até que o jogador adivinhe corretamente qual é o personagem é esse.
 
 ### Why: 
-Para inspirar fãns de Harry Potter a jogarem um jogo que possa explorar seus conhecimentos da saga.
+Para inspirar fãs de Harry Potter a jogarem um jogo que possa explorar seus conhecimentos da saga.
 
 ### Who: 
 Este jogo é destinado a qualquer pessoa que conheça e aprecie a saga Harry Potter.

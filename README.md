@@ -2,11 +2,11 @@
 Potterdle é um jogo de adivinhação diária sobre o universo de Harry Potter, cada dia tem um personagem e feitiço diferentes para ser adivinhados. Conforme forem dadas opções dicas vão aparecer para ajudar a descobrir quem é o personagem e qual é o feitiço do dia.
 
 ## Integrantes:
-- [Samuel Rocha](https://github.com/Samtlokomemo/) - Frontend e Backend
-- [Ingrid Vitoria](https://github.com/Dorginha) - Backend
-- [Gustavo Lins](https://github.com/BABABEA-0) - Frontend
-- [Hugo Ryan](https://github.com/hugo-ryan37) - Backend
-- [Ramon Freire](https://github.com/SuperFrioPolar) - Frontend
+- [Samuel Rocha](https://github.com/Samtlokomemo/) - Manipular API e fazer o design do site
+- [Ingrid Vitoria](https://github.com/Dorginha) - Manipular API
+- [Gustavo Lins](https://github.com/BABABEA-0) - Fazer o design do site
+- [Hugo Ryan](https://github.com/hugo-ryan37) - Manipular API
+- [Ramon Freire](https://github.com/SuperFrioPolar) - Fazer o design do site
 
 ## 5WH
 

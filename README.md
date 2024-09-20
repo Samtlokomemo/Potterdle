@@ -1,5 +1,13 @@
 <h1 align="center"> Potterdle </h1>
-Potterdle é um jogo de adivinhação diária sobre o universo de Harry Potter, cada dia tem um personagem e feitiço diferentes para ser adivinhados. Conforme forem dadas opções dicas vão aparecer para ajudar a descobrir quem é o personagem e qual é o feitiço do dia.
+
+<p>Potterdle é um jogo de adivinhação diária sobre o universo de Harry Potter, cada dia tem um personagem e feitiço diferentes para ser adivinhados. Conforme forem dadas opções dicas vão aparecer para ajudar a descobrir quem é o personagem e qual é o feitiço do dia.</p>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></img>
+  <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"></img>
+  <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"></img>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></img>
+</div>
 
 ## Integrantes:
 - [Samuel Rocha](https://github.com/Samtlokomemo/) - Manipular API e fazer o design do site

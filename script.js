@@ -117,7 +117,7 @@ function compareDetails(personagem) {
         comparacaoContainer.innerHTML += `
             <div class="detalhe-item">
                 <strong>${detalhe.label}:</strong> 
-                <span class="detalhe-comparado" style="border: 2px solid ${cor}; padding: 5px; border-radius: 5px; background-color: ${cor}; width: 100px; height: 100%; text-align: center">
+                <span class="detalhe-comparado" style="border: 2px solid ${cor}; padding: 5px; border-radius: 5px; background-color: ${cor}; width: 100%; height: 100%; text-align: center">
                     ${detalhe.digitado}
                 </span>
             </div>

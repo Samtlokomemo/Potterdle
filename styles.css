@@ -8,13 +8,13 @@
 }
 
 body {
-    background: #519;
+    background: #9D4AFF;
     padding: 0 20px;
 }
 
 ::selection {
     color: #fff;
-    background: #664AFF;
+    background: #9D4AFF;
 }
 
 .container {
@@ -95,16 +95,18 @@ body {
     text-align: center;
     line-height: 55px;
     font-size: 20px;
-    color: #644bff;
+    color: #9D4AFF;
     cursor: pointer;
 }
 
 
 .detalhes-personagem {
     margin-top: 20px;
+    color: white;
 }
 
 .historico-personagens {
+    color: black;
     display: flex;
     flex-direction: column;
     gap: 20px;
@@ -114,8 +116,8 @@ body {
     display: flex;
     flex-direction: row;
     gap: 20px;
-    border: 2px solid #ccc;
-    background-color: #fff;
+    border: 2px solid #efefef;
+    background-color: #A597FC;
     padding: 10px;
     border-radius: 10px;
     width: 100%;

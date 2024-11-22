@@ -97,6 +97,7 @@ function compareDetails(personagem) {
 
     // Função para comparar os detalhes
     const detalhes = [
+        { label: 'Nome', aleatorio: detalhesAleatorios.name, digitado: detalhesDigitado.name }, //Foto depois
         { label: 'Casa', aleatorio: detalhesAleatorios.house, digitado: detalhesDigitado.house },
         { label: 'Espécie', aleatorio: detalhesAleatorios.species, digitado: detalhesDigitado.species },
         { label: 'Gênero', aleatorio: detalhesAleatorios.gender, digitado: detalhesDigitado.gender },

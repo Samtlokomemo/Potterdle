@@ -1,43 +1,34 @@
 <!DOCTYPE html>
 <html lang="pt-BR">
+
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="utf-8">
+    <title>Barra de pesquisa com autocomplete</title>
     <link rel="stylesheet" href="styles.css">
-    <title>Adivinhe o personagem</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
+    <script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
 </head>
 
-
 <body>
-    <h1>olá {{ nome }}!</h1>
 
-    <div class="modal" id="modal">
-        <div class="modal-content">
-            <span class="close" id="closeBtn">&times;</span>
-            <h1 style="text-align: center;">Como jogar</h1>
-            <p>Bem-vindo ao Potterdle! O objetivo do jogo é adivinhar um personagem aleatório do universo de Harry Potter. Aqui estão as instruções:</p>
-            <ol>
-                <li><strong>Escolha um personagem:</strong> Pense em um personagem do mundo de Harry Potter e digite o nome na caixa de entrada.</li>
-                <li><strong>Envie sua adivinhação:</strong> Clique no botão "Adivinhar" para enviar sua escolha.</li>
-                <li><strong>Verifique os resultados:</strong>
-                    <ul>
-                        <li><span class="green">Verde:</span> Você acertou o personagem!</li>
-                        <li><span class="yellow">Amarelo:</span> Acertou alguma coisa, mas não tudo.</li>
-                        <li><span class="gray">Vermelho:</span> Errou tudo.</li>
-                    </ul>
-                </li>
-                <li><strong>Continue jogando:</strong> Use as dicas para fazer novas tentativas até descobrir o personagem.</li>
-            </ol>
-            <p>Divirta-se e boa sorte! Que a magia esteja com você!</p>
+    <div class="container">
+        <h2>Adivinhe o Personagem</h2>
+        <div class="search">
+            <input type="text" placeholder="Pesquisar...">
+            <div class="list">
+            </div>
+            <div class="icon"><ion-icon name="search-outline"></ion-icon></div>
+        </div>
+        <div class="detalhes-personagem">
+            <h3>Histórico de Comparações:</h3>
+            <div class="historico-personagens"></div>
         </div>
     </div>
-    <button id="openBtn">Instruções</button>
-    <i class="fa-solid fa-magnifying-glass"></i>
-    <div class="search-bar">
-        <input type="search" class="search-input" placeholder="Digite o personagem">
-        <button class="search-button">Pesquisar</button>
-    </div>
 
+    <script src="sugestoes.js"></script>
     <script src="script.js"></script>
+
 </body>
+
 </html>

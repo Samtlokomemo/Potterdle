@@ -47,7 +47,7 @@ button{
     height: 75px;
 
     /*Fundo do botão*/
-    background-image: url(imagens/botao.png);
+    background-image: url(botao.png);
     background-size: cover;
     background-position: center;
     border: none; /* Remove a borda padrão do botão */
